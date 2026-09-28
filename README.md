@@ -10,7 +10,7 @@ and turn ideas into working software.
 <a href="https://github.com/yuchandewar">
 <img src="https://img.shields.io/badge/GitHub-yuchandewar-181717?style=for-the-badge&logo=github"/>
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/yashpal-chandewar-47979b311">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -164,27 +164,7 @@ code in real time.
 
 </div>
 
----
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yuchandewar&bg_color=0d1117&color=58a6ff&line=238636&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-# 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/yuchandewar/yuchandewar/output/github-snake-dark.svg" width="100%"/>
-
-</div>
-
----
 
 # 🏆 Achievements
 
