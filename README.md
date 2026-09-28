@@ -10,7 +10,7 @@ and turn ideas into working software.
 <a href="https://github.com/yuchandewar">
 <img src="https://img.shields.io/badge/GitHub-yuchandewar-181717?style=for-the-badge&logo=github"/>
 </a>
-<a href="www.linkedin.com/in/yashpal-chandewar-47979b311">
+<a href="https://www.linkedin.com/in/yashpal-chandewar-47979b311">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
